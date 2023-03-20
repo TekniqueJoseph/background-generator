@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/TekniqueJoseph/background-generator/issues"
   },
-  "homepage": "https://github.com/TekniqueJoseph/background-generator#readme"
+  "homepage": "https://github.com/TekniqueJoseph/background-generator#readme",
+  "dependencies": {
+    "uuid": "^7.0.3"
+  }
 }
